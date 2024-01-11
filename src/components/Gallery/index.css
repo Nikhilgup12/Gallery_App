@@ -1,0 +1,37 @@
+* {
+  margin: 0px;
+  box-sizing: border-box;
+}
+.gallery-main-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100vh;
+  padding: 20px;
+}
+.gallery-image {
+  height: 300px;
+  width: 400px;
+  margin: 10px;
+}
+.gallery-image {
+  list-style: none;
+}
+.gallery-para {
+  margin-left: 57px;
+  margin-top: 20px;
+  color: #1e293b;
+  font-weight: bold;
+}
+.para {
+  font-size: 10px;
+  margin-left: 57px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  color: #64748b;
+}
+.thumbnail-container{
+  display: flex; 
+  justify-content: center; 
+  flex-wrap: wrap;
+}

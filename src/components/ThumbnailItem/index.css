@@ -1,0 +1,17 @@
+/* Write your code here. */
+.thumbnail-image {
+  height: 50px;
+  width: 50px;
+  background-color: #ffffff;
+  border-width: 0px;
+  opacity: 0.5;
+}
+.image {
+  width: 100%;
+}
+.thumbnail-container-image {
+  list-style: none;
+}
+.active-image {
+  opacity: 1;
+}
